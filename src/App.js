@@ -7,7 +7,7 @@ import Header from './components/header';
 
 //You need your personal access token, which you can get from mapbox site
 // https://docs.mapbox.com/help/glossary/access-token
-const token = "pk.eyJ1IjoiZ2Rvcm5hbGEiLCJhIjoiY2pza2U5YWU2MjlrYjN5czduY3FhZmNmMCJ9.pEEcl7aRpNH69NGDUqaU9A";
+const token = "<Use your own Access tokenA>";
 class App extends PureComponent {
   state = {
     address: '',
